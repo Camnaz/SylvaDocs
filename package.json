@@ -1,0 +1,20 @@
+{
+  "name": "sylva-docs",
+  "version": "1.0.0",
+  "description": "Sylva Documentation - Decentralized Intelligence Framework",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "keywords": ["sylva", "documentation", "ai", "agents", "blockchain"],
+  "author": "Olea Computer",
+  "license": "ISC",
+  "type": "module"
+}
