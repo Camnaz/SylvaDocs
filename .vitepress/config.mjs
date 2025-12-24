@@ -17,6 +17,11 @@ export default defineConfig({
   themeConfig: {
     logo: '/SylvaLogoAlternate.svg',
     
+    // Enable dark mode toggle
+    darkModeSwitchLabel: 'Appearance',
+    lightModeSwitchTitle: 'Switch to light mode',
+    darkModeSwitchTitle: 'Switch to dark mode',
+    
     // Mobile menu configuration
     outline: 'deep',
     sidebarMenuLabel: 'Menu',
