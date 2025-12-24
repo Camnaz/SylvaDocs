@@ -6,7 +6,7 @@ const isDev = process.env.NODE_ENV !== 'production';
 export default defineConfig({
   title: 'Sylva Documentation',
   description: 'Technical documentation for Sylva - A Monad-native framework for user-seeded autonomous agents',
-  base: isDev ? '/' : '/docs/',
+  base: '/',
   
   // Ensure proper head meta for mobile
   head: [
