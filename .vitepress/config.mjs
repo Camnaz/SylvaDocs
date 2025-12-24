@@ -15,7 +15,7 @@ export default defineConfig({
   ],
   
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/SylvaLogoAlternate.svg',
     
     // Mobile menu configuration
     outline: 'deep',
